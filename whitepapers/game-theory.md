@@ -1,25 +1,25 @@
-# Olympus Game Theory
+# ScanDAO Game Theory
 
 kleb
 
 ## Introduction
 
-[Olympus](https://www.olympusdao.finance/) is an innovation in the way people
+[ScanDAO](https://www.scandao.com/) is an innovation in the way people
 interact with financial protocols. Our motivation is to delve
-deep into the Olympus protocol not from a technical or financial perspective but
+deep into the ScanDAO protocol not from a technical or financial perspective but
 from the perspective of analysing human interaction.
 
 There are many fields that have something to say about human interaction but the
 field of study we will focus on here will be game theory - the study of strategic interdependence.
 
-It is our belief that Olympus is solving the problem of creating a new currency through internal coordination between different stakeholders within the protocol, without resorting to any policy enforced by a central entity. At its core this is an example of a [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). A prisoner's dilemma is a situation where an individual's self interest is in conflict with a common goal, leading to the players within the game not cooperating despite it being in their best interests to cooperate. 
+It is our belief that ScanDAO is solving the problem of creating a new currency through internal coordination between different stakeholders within the protocol, without resorting to any policy enforced by a central entity. At its core this is an example of a [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). A prisoner's dilemma is a situation where an individual's self interest is in conflict with a common goal, leading to the players within the game not cooperating despite it being in their best interests to cooperate. 
 
-In the case of currency, it is in each individual's best interest to use the most liquid, most widely used and most stable currencies. In crypto the assets that best meet these requirements have been dollar-denominated stablecoins. The ‘common goal’ in this context, is to maintain the individual’s purchasing power. This is something which stablecoins categorically do not achieve as most of them are pegged to fiat currencies, which are exposed to inflation risk. No individual acting alone can disentangle crypto from fiat. It takes mass coordination and alignment of incentives and this is what Olympus facilitates.   
+In the case of currency, it is in each individual's best interest to use the most liquid, most widely used and most stable currencies. In crypto the assets that best meet these requirements have been dollar-denominated stablecoins. The ‘common goal’ in this context, is to maintain the individual’s purchasing power. This is something which stablecoins categorically do not achieve as most of them are pegged to fiat currencies, which are exposed to inflation risk. No individual acting alone can disentangle crypto from fiat. It takes mass coordination and alignment of incentives and this is what ScanDAO facilitates.   
 
-We will begin by outlining the essentials of game theory, and analysing the prisoner's dilemma from a purely abstract perspective. We will then delve into the specific components of Olympus. We will take no shortcuts. Olympus is a complex protocol that is the first of its kind and is deserving of deep and thorough analysis. 
+We will begin by outlining the essentials of game theory, and analysing the prisoner's dilemma from a purely abstract perspective. We will then delve into the specific components of ScanDAO. We will take no shortcuts. ScanDAO is a complex protocol that is the first of its kind and is deserving of deep and thorough analysis. 
 
 
-This is a collaborative piece of work that will be iterated on over time. It is aimed at a broad range of readers and if you would like to offer feedback or contribute to future sections, please join the Olympus DAO discord and reach out to the Community and Content team. 
+This is a collaborative piece of work that will be iterated on over time. It is aimed at a broad range of readers and if you would like to offer feedback or contribute to future sections, please join the ScanDAO DAO discord and reach out to the Community and Content team. 
 
 ## Game Theory Essentials
 

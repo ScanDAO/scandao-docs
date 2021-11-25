@@ -4,7 +4,7 @@
 
 You don't have to, but we recommend you to do so. V2 migration introduces new
 features such as on-chain governance and auto-staking for bonds. You can read
-more about this on the [Olympus Medium page](https://olympusdao.medium.com/introducing-olympus-v2-c4ade14e9fe).
+more about this on the [ScanDAO Medium page](https://scandao.medium.com/introducing-olympus-v2-c4ade14e9fe).
 
 ## Gas fees are high now, will I lose my rebase rewards if I delay the migration?
 
@@ -20,15 +20,15 @@ platforms.
 
 ## What is the migration process?
 
-When the migration is live, the Olympus front-end will be updated to allow the
-migration of all your v1 OHM tokens (i.e. OHM, sOHM, and wsOHM) to gOHM.
+When the migration is live, the ScanDAO front-end will be updated to allow the
+migration of all your v1 SCAN tokens (i.e. SCAN, DAL, and wDAL) to gSCAN.
 
 The migration process requires two steps: one to approve the contract for each
-of your v1 tokens, and another that actually migrates all your tokens to gOHM.
+of your v1 tokens, and another that actually migrates all your tokens to gSCAN.
 
 {% hint style="info" %}
-Each v1 token type requires its own approval step. For example, if you have OHM
-and sOHM in your wallet, you need to perform two token approvals, but only one
+Each v1 token type requires its own approval step. For example, if you have SCAN
+and DAL in your wallet, you need to perform two token approvals, but only one
 migration operation.
 {% endhint %}
 
@@ -36,22 +36,22 @@ migration operation.
 
 No. You can either migrate all your v1 tokens or none at all.
 
-## Can I switch back to v1 tokens after migrating them to gOHM?
+## Can I switch back to v1 tokens after migrating them to gSCAN?
 
 No.
 
-## Can you walk me through an example of how much gOHM I can expect from the migration?
+## Can you walk me through an example of how much gSCAN I can expect from the migration?
 
-Assuming you have 20 OHM, 20 sOHM, and 20 wsOHM, and the [Current Index](https://docs.olympusdao.finance/main/basics/basics#how-do-i-track-my-rebase-rewards)
+Assuming you have 20 SCAN, 20 DAL, and 20 wDAL, and the [Current Index](https://docs.scandao.com/main/basics/basics#how-do-i-track-my-rebase-rewards)
 is 10.
 
-- 20 OHM = 2 gOHM. Take your 20 OHM and divide it by the Current Index to get your
-gOHM.
+- 20 SCAN = 2 gSCAN. Take your 20 SCAN and divide it by the Current Index to get your
+gSCAN.
 
-- 20 sOHM = 2 gOHM. Take your 20 sOHM and divide it by the Current Index to get
-your gOHM.
+- 20 DAL = 2 gSCAN. Take your 20 DAL and divide it by the Current Index to get
+your gSCAN.
 
-- 20 wsOHM = 20 gOHM. 1 wsOHM is equivalent to 1 gOHM.
+- 20 wDAL = 20 gSCAN. 1 wDAL is equivalent to 1 gSCAN.
 
 ## How are bonds affected after the migration?
 
@@ -59,5 +59,5 @@ In V2, you can purchase multiple bonds of the same type without resetting the
 bond vesting period.
 
 Also, there is no need to claim bond rewards and stake them manually, as this process
-will be automated. The bonders will receive their entitled sOHM at the end of the
+will be automated. The bonders will receive their entitled DAL at the end of the
 vesting period.

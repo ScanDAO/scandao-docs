@@ -2,12 +2,11 @@
 
 ## Official
 
-* [Website](https://olympusdao.finance)
-* [Twitter](https://twitter.com/OlympusDAO)
-* [Medium](https://olympusdao.medium.com)
-* [Discord](https://discord.com/invite/olympusdao)
-* [Forum](https://forum.olympusdao.finance)
-* [Scattershot](https://scattershot.page/#/olympusdao.eth)
+* [Website](https://scandao.com)
+* [Twitter](https://twitter.com/ScanDAO)
+* [Medium](https://scandao.medium.com)
+* [Discord](https://discord.com/invite/scandao)
+* [Scattershot](https://scattershot.page/#/scandao.eth)
 
 ## Third Party
 
