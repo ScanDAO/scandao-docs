@@ -58,7 +58,7 @@ Risk Free Value, is the amount of funds the treasury guarantees to use for backi
 
 ## SLP
 
-Sushiswap Liquidity Provider, is the token received when providing liquidity on Sushiswap. For instance LP bonds require SLP tokens of the SCAN / BUSD pair.
+PancakeSwap Liquidity Provider, is the token received when providing liquidity on PancakeSwap. For instance LP bonds require SLP tokens of the SCAN / BUSD pair.
 
 ## TVL
 
@@ -71,4 +71,3 @@ Treasury as a Service, is the business model of decentralized custody of partner
 ## TWAP
 
 Time Weighted Average Price, is the average price of an asset over a specified time. TWAPs are used to represent the fair value of an asset as defined by the market.
-

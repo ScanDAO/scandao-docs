@@ -2,17 +2,13 @@
 
 Staking allows you to earn SCAN passively via auto-compounding. By staking your SCAN with ScanDAO, you receive DAL \(staked SCAN\) in return at a 1:1 ratio. After that, your DAL balance will increase automatically on every epoch based on the current APY.
 
-Check out this video on how to get SCAN and stake it on ScanDAO:
-
-{% embed url="https://www.youtube.com/watch?v=aXAE1ikVMpM" caption="How to get SCAN and stake it on ScanDAO" %}
-
 ## How to Buy SCAN
 
 {% hint style="warning" %}
-There are several venues to purchase SCAN: [Sushiswap](https://app.sushi.com/swap), [Uniswap](https://app.uniswap.org/#/swap), or DEX aggregators such as [matcha](https://matcha.xyz/). Make sure to **check the slippage first** before buying SCAN, as some venue offers worse rate than the others due to low liquidity.
+The best outlet to buy SCAN is [PancakeSwap](https://app.sushi.com/swap). Make sure to **check the slippage first** before buying SCAN, as some venue offers worse rate than the others due to low liquidity.
 {% endhint %}
 
-1. Go to [this Sushiswap swap page](https://app.sushi.com/swap?outputCurrency=0x383518188c0c6d7730d91b2c03a03c837814a899). We use Sushiswap as an example here. It is recommended to compare the exchange rate across different DEXes to ensure you are getting the best price.
+1. Go to [this PancakeSwap swap page](https://app.sushi.com/swap?outputCurrency=0x383518188c0c6d7730d91b2c03a03c837814a899). We use PancakeSwap as an example here. It is recommended to compare the exchange rate across different DEXes to ensure you are getting the best price.
 
 2. Make sure the output currency is SCAN. You can also copy and paste the [SCAN contract address](../contracts/tokens.md#scan) into the output currency field to ensure you are swapping for the right token.
 
@@ -67,4 +63,3 @@ _Note: The "Approve" transaction is only needed when staking/unstaking for the f
 **Reward Yield** tells you how much your DAL balance will increase when the next epoch begins. For example, if you stake 100 SCAN and the upcoming rebase is 0.5427%, your DAL balance would increase from 100 to 100.5427.
 
 **ROI \(5-Day Rate\)** estimates how much your DAL balance will increase after 5 days, if the reward yield stays the same during this period. For example, if you stake 100 SCAN and the rate is 8.4577%, your DAL balance would increase from 100 to 108.4577 after 5 days.
-

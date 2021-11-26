@@ -10,9 +10,7 @@ are for instance the
 individual payout. Below are listed BUSD bond contracts by version, where the
 latest version represents the currently active contract.
 
-* V1 [0xa64E...2A3c](https://etherscan.io/address/0xa64ED1b66Cb2838Ef2A198D8345c0ce6967A2A3c)
-* V2 [0xd030...f045](https://etherscan.io/address/0xd03056323b7a63e2095ae97fa1ad92e4820ff045)
-* V3 [0x5754...381c](https://etherscan.io/address/0x575409F8d77c12B05feD8B455815f0e54797381c)
+- [0xa64E...2A3c](https://bscscan.com/address/0xa64ED1b66Cb2838Ef2A198D8345c0ce6967A2A3c)
 
 ## BNB Bond
 
@@ -22,8 +20,7 @@ only exception for BNB bonds is that we do not mint SCAN against wBNB taken in t
 begin with. Below are listed BNB bond contracts by version, where the latest
 version represents the currently active contract.
 
-* V1 [0x7464...d90d](https://etherscan.io/address/0x7464a65aa3fc15a625e2adfb8b340277d804d90d)
-* V2 [0xE629...6F1c](https://etherscan.io/address/0xE6295201CD1ff13CeD5f063a5421c39A1D236F1c)
+- [0xE629...6F1c](https://bscscan.com/address/0xE6295201CD1ff13CeD5f063a5421c39A1D236F1c)
 
 ## LUSD Bond
 
@@ -35,15 +32,14 @@ are for instance the
 individual payout. Below are listed LUSD bond contracts by version, where the
 latest version represents the currently active contract.
 
-* V1 [0x10C0...D08D](https://etherscan.io/address/0x10C0f93f64e3C8D0a1b0f4B87d6155fd9e89D08D)
+- V1 [0x10C0...D08D](https://bscscan.com/address/0x10C0f93f64e3C8D0a1b0f4B87d6155fd9e89D08D)
 
 ## SCAN / BUSD LP Bond
 
-* V1 [0xd270...ff29](https://etherscan.io/address/0xd27001d1aaed5f002c722ad729de88a91239ff29)
-* V2 [0x13e8...8536](https://etherscan.io/address/0x13e8484a86327f5882d1340ed0d7643a29548536)
-* V3 [0x9966...1626](https://etherscan.io/address/0x996668c46fc0b764afda88d83eb58afc933a1626)
-* V4 [0x956c...c151](https://etherscan.io/address/0x956c43998316b6a2F21f89a1539f73fB5B78c151)
-
+- V1 [0xd270...ff29](https://bscscan.com/address/0xd27001d1aaed5f002c722ad729de88a91239ff29)
+- V2 [0x13e8...8536](https://bscscan.com/address/0x13e8484a86327f5882d1340ed0d7643a29548536)
+- V3 [0x9966...1626](https://bscscan.com/address/0x996668c46fc0b764afda88d83eb58afc933a1626)
+- V4 [0x956c...c151](https://bscscan.com/address/0x956c43998316b6a2F21f89a1539f73fB5B78c151)
 
 ## SCAN / LUSD LP Bond
 
@@ -55,7 +51,7 @@ are for instance the
 individual payout. Below are listed SCAN / LUSD LP bond contracts by version,
 where the latest version represents the currently active contract.
 
-* V1 [0xFB17...67b6](https://etherscan.io/address/0xFB1776299E7804DD8016303Df9c07a65c80F67b6)
+- V1 [0xFB17...67b6](https://bscscan.com/address/0xFB1776299E7804DD8016303Df9c07a65c80F67b6)
 
 ## Redeem Helper
 
@@ -64,4 +60,4 @@ addresses. When calling `redeemAll` all claimable bond rewards are redeemed for
 the given recipient. Below are listed redeem helper contracts by version, where
 the latest version represents the currently active contract.
 
-* V1 [0xE1e8...819E](https://etherscan.io/address/0xE1e83825613DE12E8F0502Da939523558f0B819E)
+- V1 [0xE1e8...819E](https://bscscan.com/address/0xE1e83825613DE12E8F0502Da939523558f0B819E)
