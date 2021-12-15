@@ -10,7 +10,7 @@ are for instance the
 individual payout. Below are listed BUSD bond contracts by version, where the
 latest version represents the currently active contract.
 
-- [0xa64E...2A3c](https://bscscan.com/address/0xa64ED1b66Cb2838Ef2A198D8345c0ce6967A2A3c)
+- [0xa64E...2A3c](https://bscscan.com/address/0x0b49c90BEf4912211F27e3Bab75d9036D71DB93C)
 
 ## BNB Bond
 
@@ -20,44 +20,8 @@ only exception for BNB bonds is that we do not mint SCAN against wBNB taken in t
 begin with. Below are listed BNB bond contracts by version, where the latest
 version represents the currently active contract.
 
-- [0xE629...6F1c](https://bscscan.com/address/0xE6295201CD1ff13CeD5f063a5421c39A1D236F1c)
-
-## LUSD Bond
-
-All bond contracts are more or less the same, with the one exception of the
-assets or LP tokens they manage. The bond contracts handle all deposits and
-redemptions. Here parameters for monetary policy are configured. Such parameters
-are for instance the
-[BCV](https://docs.scandao.com/references/glossary#bcv) and the max
-individual payout. Below are listed LUSD bond contracts by version, where the
-latest version represents the currently active contract.
-
-- V1 [0x10C0...D08D](https://bscscan.com/address/0x10C0f93f64e3C8D0a1b0f4B87d6155fd9e89D08D)
+- [0xE629...6F1c](https://bscscan.com/address/0xeE710F9CC7683f844a7dBc7416deE41010aAFc41)
 
 ## SCAN / BUSD LP Bond
 
-- V1 [0xd270...ff29](https://bscscan.com/address/0xd27001d1aaed5f002c722ad729de88a91239ff29)
-- V2 [0x13e8...8536](https://bscscan.com/address/0x13e8484a86327f5882d1340ed0d7643a29548536)
-- V3 [0x9966...1626](https://bscscan.com/address/0x996668c46fc0b764afda88d83eb58afc933a1626)
-- V4 [0x956c...c151](https://bscscan.com/address/0x956c43998316b6a2F21f89a1539f73fB5B78c151)
-
-## SCAN / LUSD LP Bond
-
-All bond contracts are more or less the same, with the one exception of the
-assets or LP tokens they manage. The bond contracts handle all deposits and
-redemptions. Here parameters for monetary policy are configured. Such parameters
-are for instance the
-[BCV](https://docs.scandao.com/references/glossary#bcv) and the max
-individual payout. Below are listed SCAN / LUSD LP bond contracts by version,
-where the latest version represents the currently active contract.
-
-- V1 [0xFB17...67b6](https://bscscan.com/address/0xFB1776299E7804DD8016303Df9c07a65c80F67b6)
-
-## Redeem Helper
-
-The redeem helper contract is configured with all active bond contract
-addresses. When calling `redeemAll` all claimable bond rewards are redeemed for
-the given recipient. Below are listed redeem helper contracts by version, where
-the latest version represents the currently active contract.
-
-- V1 [0xE1e8...819E](https://bscscan.com/address/0xE1e83825613DE12E8F0502Da939523558f0B819E)
+- [0x956c...c151](https://bscscan.com/address/0xbD4e58e19c96CC9889375DC5A9Cc0309E430627D)
