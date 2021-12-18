@@ -85,7 +85,7 @@ $$
 SCAN_{pscanExercise} = pSCAN + BUSD
 $$
 
-The individual would supply 1 pSCAN along with 1 BUSD to mint 1 SCAN. The pSCAN is subsequently burned. Read [this Medium article](https://scandao.medium.com/what-is-poh-16b2c38a6cd6) for more information on pSCAN.
+The individual would supply 1 pSCAN along with 1 BUSD to mint 1 SCAN. The pSCAN is subsequently burned.
 
 ## Backing per SCAN
 

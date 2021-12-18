@@ -4,21 +4,17 @@ Bonds allow users to buy SCAN from the protocol at a discount by trading it with
 
 Bonds take roughly 15 epochs to vest, and SCAN tokens are vested linearly to the user over that period. Liquidity bonds help the protocol to accumulate and lock liquidity, while reserve bonds allow the protocol to grow its treasury, and thus its RFV faster.
 
-ScanDAO offers five types of bonds [on its website](https://app.scandao.com/#/bonds):
+ScanDAO offers five types of bonds [on its website](https://app.scandao.com/#/mints):
 
 * [BUSD bond](bond_busd.md)
 * [wBNB bond](bond_wbnb.md)
 * [SCAN-BUSD LP bond](scan-busd-lp-bond.md)
 
-Check out this video on how to get a bond from ScanDAO:
-
-{% embed url="https://www.youtube.com/watch?v=BJFLCDBsrlc" caption="How to get a bond from ScanDAO" %}
-
 ## Hades
 
 Hades is a feature that allows you to purchase bonds while sending the acquired SCAN to another address. This is useful for additional privacy, or for purchasing multiple bonds while the current bonds are still vesting. Note that if the same account holds multiple bonds, the pending rewards from the earlier bonds have to be forfeited.
 
-1. Go to [Bond page](https://app.scandao.com/#/bonds) and select the bond type you want to purchase.
+1. Go to [Bond page](https://app.scandao.com/#/mints) and select the bond type you want to purchase.
 2. Select the amount that you would like to bond, then click on the cogwheel icon at the top right of the page.
 
    ![](../../.gitbook/assets/cogwheel.png)
@@ -39,7 +35,7 @@ _Notes:_
 
 ## **How to Redeem**
 
-Go to [Bond page](https://app.scandao.com/#/bonds) and select the bond type you have purchased. Select the "Redeem" tab. Then, click "Claim Rewards" to claim all of your available rewards.
+Go to [Bond page](https://app.scandao.com/#/mints) and select the bond type you have purchased. Select the "Redeem" tab. Then, click "Claim Rewards" to claim all of your available rewards.
 
 ## Reading the Info
 

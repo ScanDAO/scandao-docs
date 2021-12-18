@@ -20,5 +20,5 @@ create accountability and ensure successful execution.
 
 ## Join Us
 
-If our values align with yours, reach out to us on our [DAO Discord](https://discord.gg/42xFV68uEf),
+If our values align with yours, reach out to us on our [DAO Discord](https://discord.gg/ythKKHq634),
 we look forward to your contribution.

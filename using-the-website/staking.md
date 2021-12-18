@@ -5,10 +5,10 @@ Staking allows you to earn SCAN passively via auto-compounding. By staking your 
 ## How to Buy SCAN
 
 {% hint style="warning" %}
-The best outlet to buy SCAN is [PancakeSwap](https://app.sushi.com/swap). Make sure to **check the slippage first** before buying SCAN, as some venue offers worse rate than the others due to low liquidity.
+The best outlet to buy SCAN is [PancakeSwap](https://pancakeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0xaf2cC765A04a3A4B554f368796Cec2B7eAF44746). Make sure to **check the slippage first** before buying SCAN, as some venue offers worse rate than the others due to low liquidity.
 {% endhint %}
 
-1. Go to [this PancakeSwap swap page](https://app.sushi.com/swap?outputCurrency=0x383518188c0c6d7730d91b2c03a03c837814a899). We use PancakeSwap as an example here. It is recommended to compare the exchange rate across different DEXes to ensure you are getting the best price.
+1. Go to [this PancakeSwap swap page](https://pancakeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0xaf2cC765A04a3A4B554f368796Cec2B7eAF44746). We use PancakeSwap as an example here. It is recommended to compare the exchange rate across different DEXes to ensure you are getting the best price.
 
 2. Make sure the output currency is SCAN. You can also copy and paste the [SCAN contract address](../contracts/tokens.md#scan) into the output currency field to ensure you are swapping for the right token.
 

@@ -58,6 +58,5 @@
 ## Get Involved
 
 - [Contribute](get-involved/contribute.md)
-- [Community Discord](https://discord.com/invite/scandao)
-- [DAO Discord](https://discord.com/invite/42xFV68uEf)
-- [Forum](https://forum.scandao.com)
+- [Community Discord](https://discord.gg/ythKKHq634)
+- [DAO Discord](https://discord.gg/ythKKHq634)

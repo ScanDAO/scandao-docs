@@ -4,9 +4,9 @@ BUSD bond was introduced on our launch. It allows you to trade [BUSD](https://ww
 
 ## How to Bond
 
-1. Make sure you have BUSD in your wallet. For example, you can [go to PancakeSwap to swap for BUSD](https://app.sushi.com/swap?inputCurrency=&outputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f) if you don't have any.
+1. Make sure you have BUSD in your wallet. For example, you can [go to PancakeSwap to swap for BUSD](https://pancakeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0xaf2cC765A04a3A4B554f368796Cec2B7eAF44746) if you don't have any.
 
-2. Head to the [BUSD Bond page of the ScanDAO website](https://app.scandao.com/#/bonds/busd). There are two tabs: "Bond" and "Redeem". Make sure "Bond" is selected.
+2. Head to the [BUSD Bond page of the ScanDAO website](https://app.scandao.com/#/mints/busd). There are two tabs: "Bond" and "Redeem". Make sure "Bond" is selected.
 
 3. Type in the amount of BUSD you would like to bond. Make sure you are not trying to bond more than is allowed. The **Max You Can Buy** field below shows the maximum amount of SCAN you can purchase.
 

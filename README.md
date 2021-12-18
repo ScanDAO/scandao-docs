@@ -2,7 +2,7 @@
 
 ## What is ScanDAO?
 
-ScanDAO is a decentralized reserve currency protocol based on the SCAN token. Each SCAN token is backed by a basket of assets \(e.g. BUSD\) in the ScanDAO treasury, giving it an intrinsic value that it cannot fall below. ScanDAO also introduces unique economic and game-theoretic dynamics into the market through staking and bonding. Read more about the game theory aspect of ScanDAO in [one of our blog posts](https://scandao.medium.com/the-game-theory-of-olympus-e4c5f19a77df).
+ScanDAO is a decentralized reserve currency protocol based on the SCAN token. Each SCAN token is backed by a basket of assets \(e.g. BUSD\) in the ScanDAO treasury, giving it an intrinsic value that it cannot fall below. ScanDAO also introduces unique economic and game-theoretic dynamics into the market through staking and bonding.
 
 ## What is the point of ScanDAO?
 
@@ -12,7 +12,7 @@ Our goal is to build a policy-controlled currency system, in which the behavior 
 
 There are two main strategies for market participants: [staking](basics/staking.md) and [bonding](basics/bonding.md). Stakers stake their SCAN tokens in return for more SCAN tokens, while bonders provide LP or BUSD tokens in exchange for discounted SCAN tokens after a fixed vesting period.
 
-Governance participants can get involved on our [forum](https://forum.scandao.com) and through discussions on our [community discord](https://discord.com/invite/scandao) and [DAO discord](https://discord.com/invite/42xFV68uEf) servers respectively. We are always looking for new community members to contribute!
+Governance participants can get involved through discussions on our [community discord](https://discord.com/invite/scandao) and [DAO discord](https://discord.gg/ythKKHq634) servers respectively. We are always looking for new community members to contribute!
 
 ## How can I benefit from ScanDAO?
 

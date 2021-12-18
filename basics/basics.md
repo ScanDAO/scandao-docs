@@ -73,9 +73,7 @@ ScanDAO [owns most of its liquidity](https://dune.xyz/shadow/ScanDAO-%28SCAN%29)
 
 * All POL can be used to back SCAN. The LP tokens are marked down to their risk-free
 
-  value for this purpose. You can read more about the rationale behind this in this
-
-  [Medium article](https://scandao.medium.com/busd-bonds-a-more-effective-sales-mechanism-c9a57586f1f7).
+  value for this purpose.
 
 ## What will happen if there is a bank run on ScanDAO?
 
@@ -151,20 +149,17 @@ $$
 SCAN_{distributed} = SCAN_{totalSupply} \times rewardRate
 $$
 
-Note that the reward rate is subject to change by the protocol. For example, it has been revised due to [this latest proposal](https://forum.scandao.com/d/77-oip-18-reward-rate-framework-and-reduction).
-
 ## Why does the price of SCAN become irrelevant in long term?
 
 As illustrated above, your SCAN balance will grow exponentially over time thanks to the power of compounding. Let's say you buy an SCAN for $400 now and the market decides that in 1 year time, the intrinsic value of SCAN will be $2. Assuming a busdly compound interest rate of 2%, your balance would grow to about 1377 SCANs by the end of the year, which is worth around $2754. That is a cool $2354 profit! By now, you should understand that you are paying a premium for SCAN now in exchange for a long-term benefit. Thus, you should have a long time horizon to allow your SCAN balance to grow exponentially and make this a worthwhile investment.
 
 ## What will be SCAN's intrinsic value in the future?
 
-There is no clear answer for this, but the intrinsic value can be determined by the treasury performance. For example, if the treasury could guarantee to back every SCAN with 100 BUSD, the intrinsic value will be 100 BUSD. It can also be decided by the DAO. For example, if the DAO decides to [raise the price floor of SCAN](https://forum.scandao.com/d/31-use-price-floor-as-tool-for-monetary-policy), its intrinsic value will rise accordingly.
+There is no clear answer for this, but the intrinsic value can be determined by the treasury performance. For example, if the treasury could guarantee to back every SCAN with 100 BUSD, the intrinsic value will be 100 BUSD. It can also be decided by the DAO. For example, if the DAO decides to raise the price floor of SCAN, its intrinsic value will rise accordingly.
 
 ## How does the protocol manage to maintain the high staking APY?
 
-Let’s say the protocol targets an APY range of 1,000% to 10,000% (see [OIP-18](https://forum.scandao.com/d/77-oip-18-reward-rate-framework-and-reduction)
-for more details), this would translate to a *minimum* reward yield of about 0.2105%,
+Let’s say the protocol targets an APY range of 1,000% to 10,000%, this would translate to a *minimum* reward yield of about 0.2105%,
 or a busdly growth of about 0.6328%. Please refer to the equation above to learn
 [how APY is calculated from the reward yield](basics.md#how-is-the-apy-calculated).
 

@@ -1,12 +1,12 @@
 # SCAN-BUSD LP Bond
 
-SCAN-BUSD LP bond was introduced on our launch date. It allows you to trade [SCAN-BUSD SLP token](https://app.sushi.com/add/0x6B175474E89094C44Da98b954EedeAC495271d0F/0x383518188C0C6d7730D91b2c03a03C837814a899) in exchange for discounted SCAN on ScanDAO.
+SCAN-BUSD LP bond was introduced on our launch date. It allows you to trade [SCAN-BUSD SLP token](https://pancakeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0xaf2cC765A04a3A4B554f368796Cec2B7eAF44746) in exchange for discounted SCAN on ScanDAO.
 
 ## How to Bond
 
-1. Make sure you have SCAN-BUSD SLP tokens in your wallet. You need to go to PancakeSwap and add liquidity for the [SCAN-BUSD pool](https://app.sushi.com/add/0x6B175474E89094C44Da98b954EedeAC495271d0F/0x383518188C0C6d7730D91b2c03a03C837814a899) to acquire them.
+1. Make sure you have SCAN-BUSD SLP tokens in your wallet. You need to go to PancakeSwap and add liquidity for the [SCAN-BUSD pool](https://pancakeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0xaf2cC765A04a3A4B554f368796Cec2B7eAF44746) to acquire them.
 
-2. Head to the [SCAN-BUSD SLP Bond page of the ScanDAO website](https://app.scandao.com/#/bonds/scan_busd_lp). There are two tabs: "Bond" and "Redeem". Make sure "Bond" is selected.
+2. Head to the [SCAN-BUSD SLP Bond page of the ScanDAO website](https://app.scandao.com/#/mints/scan_busd_lp). There are two tabs: "Bond" and "Redeem". Make sure "Bond" is selected.
 
 3. Type in the amount of SCAN-BUSD SLP tokens you would like to bond. Make sure you are not trying to bond more than is allowed. The **Max You Can Buy** field below shows the maximum amount of SCAN you can purchase.
 
